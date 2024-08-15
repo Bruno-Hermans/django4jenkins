@@ -3,7 +3,7 @@ import time
 import webbrowser
 from django.core.management import execute_from_command_line
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "django_test.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "django4jenkins.settings")
 
 
 def run_server():
