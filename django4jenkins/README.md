@@ -4,3 +4,5 @@ Django 4 Jenkins is a simple Django project that demonstrates how to use Jenkins
 
 ## Prerequisites
 test.
+
+This is a dev statement.
